@@ -1,0 +1,50 @@
+.myUl li{
+    font-size: 19px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+nav{
+    background-color: #ffffff;
+}
+.mybtn{
+    
+border-radius: 5.95px;
+background-color: #75BF7A;
+border: none;
+
+
+}
+.myP{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #9E9DA2;
+    font-size: 22px;
+
+}
+.myh1{
+    font-size: 50px;
+}
+.header-text{
+    padding-top: 100px;
+}
+.header-img{
+    height: 530px;
+    width: 580px;
+}
+header{
+    background-color: #faf8f8;
+}
+.div1{
+    background: #75BF7A;
+    color: white;
+    border-radius: 15px;
+}
+input{
+    border-radius: 5px;
+    height: 40px;
+    width: 250px;
+    border: none;
+    margin-right: 10px;
+}
